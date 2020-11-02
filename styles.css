@@ -127,3 +127,20 @@
     }
   }
   
+  .name {
+    text-align: center;
+    font-size: 3em;
+    color: #f3214f;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .motto {
+    text-align: center;
+    font-size: 1.2em;
+    color: #f3214f;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .pagelogo{
+    text-align: center;
+  }
